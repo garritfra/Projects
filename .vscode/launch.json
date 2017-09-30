@@ -77,6 +77,7 @@
             ]
         },
         {
+            "program": "${file}",
             "name": "Python Module",
             "type": "python",
             "request": "launch",
@@ -187,6 +188,7 @@
             ]
         },
         {
+            "program": "${file}",
             "name": "Pyramid",
             "type": "python",
             "request": "launch",
